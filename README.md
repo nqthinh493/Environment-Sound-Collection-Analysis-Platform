@@ -17,7 +17,6 @@ ESCA has represented the real-time abnormal environment sound detection.
 * Python 3.7
 * Tensorflow & Tensorflow-GPU version 2.7.0
 * Gammatone https://github.com/detly/gammatone
-* Pydub
 
 
 ## Installation
