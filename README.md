@@ -33,6 +33,7 @@ Install project with command
 * **Base Training:** Training model with labelled environment audio dataset
 * **Transfer Learning:** Use pre-trained model for update model with new audio dataset. The new model contains the features of both the old and the new dataset
 * **Real-time Dectection:** Model implementation to detect anomalies in audio tracks
+
 **Input:** Audio recording files as format.wav
 
 **Output:** Loss value, Normal/Abnormal classificaion of files splitted from the original audio file.
